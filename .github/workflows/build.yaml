@@ -26,5 +26,5 @@ jobs:
           context: ./
           push: true
           tags: |
-                dinelkalakshan/docker-automation:${{ env.SHORT_SHA }}
-                dinelkalakshan/docker-automation:latest
+                dinelka456/dinelkalakshan:${{ env.SHORT_SHA }}
+                dinelka456/dinelkalakshan:latest
