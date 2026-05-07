@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/01722241-5c8b-449d-8b84-93b1ab4ffa3c
 # 🚀 Docker CI/CD Pipeline with GitHub Actions
 
 This project demonstrates a **CI/CD pipeline** that automatically builds, tags, and pushes a Docker image to Docker Hub using GitHub Actions.
@@ -16,6 +18,14 @@ This project demonstrates a **CI/CD pipeline** that automatically builds, tags, 
 ## 🧩 CI/CD Pipeline Flow
 
  pushes code gitHub → GitHub triggers workflow → Docker image is built → Image is tagged → Image is pushed to Docker Hub
+
+---
+
+## 🎥 Project Demo
+
+https://your-demo-video-link.com
+
+[▶ Watch Demo] Uploading Docker-CICD-Automation-Pipeline.mp4…
 
 ---
 
