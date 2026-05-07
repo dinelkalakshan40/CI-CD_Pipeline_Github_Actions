@@ -23,8 +23,6 @@ This project demonstrates a **CI/CD pipeline** that automatically builds, tags, 
 
 ## 🎥 Project Demo
 
-https://your-demo-video-link.com
-
 [▶ Watch Demo] Uploading Docker-CICD-Automation-Pipeline.mp4…
 
 ---
